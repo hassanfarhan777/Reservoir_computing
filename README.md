@@ -1,4 +1,2 @@
-# Just getting started with Github
+## My projects from the lecture 'AI: When Machine learning meets Complex System' taught by Christopher Raeth (DLR)
 
-This is too much knowledge at once
-And now it's getting overwhelming   
